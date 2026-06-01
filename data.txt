@@ -1,0 +1,4 @@
+Ali,Family,5,Bahria Town
+Ahmed,Needy,3,PWD
+Fatima,Relative,4,G-13
+Usman,Neighbour,2,DHA
