@@ -33,7 +33,6 @@ This project was built as a personal challenge to practice Java GUI development,
 - DefaultTableModel
 - File Handling
 - Event Handling
-- Object-Oriented Programming Concepts
 
 ---
 
